@@ -1,0 +1,26 @@
+# Archivos del entorno
+.env
+config/conexion.php
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Cache
+cache/
+tmp/
+*.tmp
+
+# IDEs y editores
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Archivos del servidor local
+*.bak
+*.swp
+
